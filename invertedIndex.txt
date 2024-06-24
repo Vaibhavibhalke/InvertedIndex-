@@ -1,0 +1,868 @@
+russia --> {'Text-2.txt': [(2, 1)]}
+who --> {'Text-2.txt': [(2, 2), (8, 7)], 'Text-3.txt': [(6, 11)], 'Text-35.txt': [(50, 6)], 'Text-8.txt': [(6, 7)]}
+s --> {'Text-2.txt': [(2, 3), (12, 2), (16, 12), (24, 10), (30, 6)], 'Text-3.txt': [(28, 5), (54, 6), (82, 11)], 'Text-35.txt': [(2, 7), (12, 13), (26, 11), (34, 4)], 'Text-36.txt': [(6, 3), (8, 8), (14, 11), (34, 4)], 'Text-37.txt': [(38, 5), (40, 6), (42, 12), (44, 11)], 'Text-4.txt': [(4, 2), (6, 13), (12, 9), (18, 2), (18, 9), (28, 11)], 'Text-8.txt': [(6, 2)]}
+in --> {'Text-2.txt': [(2, 4), (2, 9), (6, 12), (22, 8), (26, 8)], 'Text-3.txt': [(6, 13), (18, 6), (28, 3), (52, 8), (56, 3), (68, 3), (78, 9)], 'Text-35.txt': [(8, 5), (12, 6), (16, 8), (22, 5), (26, 8), (30, 8), (46, 12), (50, 11), (52, 4), (56, 12)], 'Text-36.txt': [(22, 3), (22, 14), (26, 9), (36, 3)], 'Text-37.txt': [(2, 11), (14, 1), (14, 6), (32, 10), (42, 4)], 'Text-4.txt': [(28, 13), (32, 9)], 'Text-8.txt': [(8, 7)]}
+charge --> {'Text-2.txt': [(2, 5)]}
+here --> {'Text-2.txt': [(2, 6)]}
+it --> {'Text-2.txt': [(2, 7), (8, 3), (30, 9)], 'Text-3.txt': [(12, 8), (20, 8), (64, 2)], 'Text-35.txt': [(4, 12), (38, 3)], 'Text-36.txt': [(10, 4), (12, 2)], 'Text-37.txt': [(16, 3)], 'Text-4.txt': [(6, 3)], 'Text-8.txt': [(18, 12)]}
+was --> {'Text-2.txt': [(2, 8), (6, 2), (12, 6), (18, 4), (26, 3), (30, 10)], 'Text-3.txt': [(6, 6), (12, 9), (18, 10), (42, 1), (64, 3), (70, 9), (74, 4)], 'Text-35.txt': [(38, 4)], 'Text-36.txt': [(22, 11)], 'Text-37.txt': [(16, 4), (42, 1), (44, 5)], 'Text-4.txt': [(6, 4), (24, 9), (28, 5)], 'Text-8.txt': [(12, 1), (20, 1)]}
+1954 --> {'Text-2.txt': [(2, 10)]}
+that --> {'Text-2.txt': [(2, 11), (32, 2)], 'Text-3.txt': [(10, 12), (36, 9), (56, 7), (66, 10)], 'Text-35.txt': [(12, 10), (28, 4), (28, 10)], 'Text-37.txt': [(16, 8), (20, 9), (30, 10), (42, 10)], 'Text-8.txt': [(14, 7), (22, 8), (26, 11)]}
+nikita --> {'Text-2.txt': [(2, 12), (12, 1)]}
+khrushchev --> {'Text-2.txt': [(4, 1), (20, 3), (32, 8)]}
+launched --> {'Text-2.txt': [(4, 2)]}
+his --> {'Text-2.txt': [(4, 3), (24, 5), (26, 9), (34, 4)], 'Text-3.txt': [(4, 7)], 'Text-35.txt': [(36, 2), (44, 4), (48, 5), (52, 1), (54, 2)], 'Text-37.txt': [(38, 9)], 'Text-4.txt': [(20, 4)]}
+grandiose --> {'Text-2.txt': [(4, 4)]}
+virgin --> {'Text-2.txt': [(4, 5), (18, 8)]}
+lands --> {'Text-2.txt': [(4, 6), (18, 9)]}
+gamble --> {'Text-2.txt': [(4, 7)]}
+part --> {'Text-2.txt': [(4, 8)]}
+of --> {'Text-2.txt': [(4, 9), (6, 9), (10, 4), (18, 2), (20, 6), (28, 10), (38, 1)], 'Text-3.txt': [(8, 3), (8, 8), (8, 11), (16, 4), (16, 13), (18, 3), (30, 8), (36, 3), (40, 2), (44, 8), (46, 9), (48, 4), (54, 8), (70, 4), (78, 5), (78, 12)], 'Text-35.txt': [(8, 10), (20, 6), (26, 4)], 'Text-36.txt': [(6, 10), (8, 5), (8, 12), (14, 8), (16, 8), (18, 9), (22, 7), (24, 5), (26, 3), (30, 4), (36, 5)], 'Text-37.txt': [(2, 6), (6, 5), (12, 4), (14, 11), (18, 11), (22, 9), (32, 4)], 'Text-4.txt': [(6, 8), (22, 3), (26, 1)], 'Text-8.txt': [(12, 7), (24, 8)]}
+the --> {'Text-2.txt': [(4, 10), (12, 11), (14, 9), (16, 9), (18, 7), (20, 7), (20, 10), (28, 7), (28, 11), (30, 3), (36, 3), (36, 9)], 'Text-3.txt': [(4, 10), (4, 12), (8, 1), (8, 9), (10, 10), (12, 4), (14, 6), (16, 9), (18, 8), (18, 13), (22, 4), (22, 10), (22, 13), (26, 2), (26, 8), (26, 11), (30, 6), (30, 9), (32, 5), (36, 4), (36, 10), (40, 6), (46, 4), (48, 2), (48, 5), (52, 1), (52, 12), (54, 4), (54, 9), (54, 13), (56, 4), (58, 9), (58, 14), (62, 2), (62, 8), (66, 6), (68, 5), (70, 2), (72, 4), (74, 8), (76, 3), (80, 1), (80, 3), (80, 15), (82, 3), (82, 9)], 'Text-35.txt': [(6, 3), (12, 2), (12, 8), (14, 11), (18, 3), (20, 10), (22, 10), (30, 13), (40, 4), (42, 2), (46, 1), (46, 10), (52, 6), (56, 4)], 'Text-36.txt': [(6, 7), (6, 11), (8, 6), (12, 4), (14, 1), (18, 1), (18, 6), (20, 2), (26, 1), (28, 9), (30, 1), (30, 5), (34, 2), (36, 6)], 'Text-37.txt': [(2, 7), (2, 12), (10, 12), (14, 7), (18, 9), (20, 7), (24, 1), (32, 5)], 'Text-4.txt': [(2, 1), (2, 11), (6, 11), (12, 7), (14, 4), (22, 9), (24, 6), (28, 3), (28, 9)], 'Text-8.txt': [(12, 4), (14, 4), (18, 3), (20, 9), (24, 6), (26, 9), (30, 4)]}
+plan --> {'Text-2.txt': [(6, 1)]}
+to --> {'Text-2.txt': [(6, 3), (8, 9), (14, 5), (36, 11), (38, 5)], 'Text-3.txt': [(2, 12), (4, 9), (20, 6), (22, 12), (24, 12), (30, 5), (30, 12), (32, 2), (34, 3), (38, 5), (40, 8), (50, 4), (52, 5), (52, 10), (54, 3), (62, 11), (64, 6), (80, 8)], 'Text-35.txt': [(6, 1), (14, 8), (18, 7), (30, 3), (30, 10), (32, 7), (40, 2), (52, 14), (54, 13), (56, 9)], 'Text-36.txt': [(16, 11), (22, 12), (28, 3)], 'Text-37.txt': [(4, 4), (8, 1), (10, 2), (16, 6), (22, 1), (22, 12), (26, 7), (34, 10), (36, 7), (40, 8), (44, 7)], 'Text-4.txt': [(2, 3), (10, 3), (12, 5), (20, 8), (30, 7), (34, 5)], 'Text-8.txt': [(14, 12)]}
+plow --> {'Text-2.txt': [(6, 4)], 'Text-3.txt': [(30, 13)]}
+up --> {'Text-2.txt': [(6, 5)], 'Text-3.txt': [(24, 5)], 'Text-35.txt': [(18, 6)], 'Text-36.txt': [(28, 6), (34, 12)], 'Text-37.txt': [(36, 9)], 'Text-4.txt': [(8, 3)]}
+32 --> {'Text-2.txt': [(6, 6)]}
+million --> {'Text-2.txt': [(6, 7)]}
+acres --> {'Text-2.txt': [(6, 8)]}
+marginal --> {'Text-2.txt': [(6, 10)]}
+land --> {'Text-2.txt': [(6, 11)]}
+kazakhstan --> {'Text-2.txt': [(6, 13), (22, 9)]}
+and --> {'Text-2.txt': [(8, 1), (8, 11), (12, 10)], 'Text-3.txt': [(4, 5), (12, 13), (14, 5), (16, 11), (28, 9), (42, 7), (42, 12), (46, 11), (58, 13), (60, 5), (64, 8), (78, 7)], 'Text-35.txt': [(24, 2), (28, 9), (48, 4), (54, 8)], 'Text-36.txt': [(4, 1), (4, 9), (10, 11), (12, 8), (14, 4), (22, 1), (24, 13), (34, 8)], 'Text-37.txt': [(10, 7), (12, 2), (18, 6), (30, 3), (34, 8)], 'Text-4.txt': [(4, 12), (20, 6), (26, 4), (34, 1)], 'Text-8.txt': [(10, 6), (12, 10), (16, 7), (26, 5), (30, 3)]}
+settle --> {'Text-2.txt': [(8, 2)]}
+with --> {'Text-2.txt': [(8, 4)], 'Text-3.txt': [(60, 3)], 'Text-35.txt': [(14, 2), (34, 2), (46, 4)], 'Text-36.txt': [(4, 5)], 'Text-37.txt': [(36, 12)], 'Text-4.txt': [(2, 7)], 'Text-8.txt': [(16, 4), (26, 1), (28, 6)]}
+communist --> {'Text-2.txt': [(8, 5)], 'Text-3.txt': [(12, 6), (50, 6), (68, 6)]}
+pioneers --> {'Text-2.txt': [(8, 6), (14, 1)]}
+were --> {'Text-2.txt': [(8, 8)], 'Text-3.txt': [(4, 14), (56, 10), (58, 11)], 'Text-35.txt': [(12, 5), (16, 2), (18, 5), (56, 6)], 'Text-36.txt': [(32, 6)], 'Text-37.txt': [(6, 10), (32, 8)]}
+plant --> {'Text-2.txt': [(8, 10)]}
+produce --> {'Text-2.txt': [(10, 1)]}
+huge --> {'Text-2.txt': [(10, 2)]}
+quantities --> {'Text-2.txt': [(10, 3)]}
+desperately --> {'Text-2.txt': [(10, 5)]}
+needed --> {'Text-2.txt': [(10, 6)]}
+grain --> {'Text-2.txt': [(10, 7)]}
+within --> {'Text-2.txt': [(10, 8)]}
+two --> {'Text-2.txt': [(10, 9)], 'Text-3.txt': [(18, 1), (84, 3)], 'Text-35.txt': [(10, 5)], 'Text-8.txt': [(18, 10), (28, 2)]}
+years --> {'Text-2.txt': [(10, 10), (22, 2)], 'Text-35.txt': [(8, 7), (10, 6)], 'Text-37.txt': [(6, 4)]}
+scheme --> {'Text-2.txt': [(12, 3)]}
+flopped --> {'Text-2.txt': [(12, 4)]}
+there --> {'Text-2.txt': [(12, 5)], 'Text-37.txt': [(40, 11)]}
+not --> {'Text-2.txt': [(12, 7), (14, 3)], 'Text-3.txt': [(16, 7), (30, 11), (44, 4)], 'Text-35.txt': [(52, 13)], 'Text-37.txt': [(32, 1)], 'Text-8.txt': [(28, 10)]}
+enough --> {'Text-2.txt': [(12, 8)], 'Text-37.txt': [(34, 6)]}
+rainfall --> {'Text-2.txt': [(12, 9)]}
+did --> {'Text-2.txt': [(14, 2)], 'Text-3.txt': [(10, 5)]}
+take --> {'Text-2.txt': [(14, 4)], 'Text-3.txt': [(26, 1)], 'Text-35.txt': [(14, 9)], 'Text-37.txt': [(44, 8)]}
+tractor --> {'Text-2.txt': [(14, 6)]}
+life --> {'Text-2.txt': [(14, 7)]}
+on --> {'Text-2.txt': [(14, 8), (36, 2)], 'Text-3.txt': [(6, 9), (22, 9), (34, 7), (42, 3), (62, 7), (70, 13)], 'Text-35.txt': [(12, 7), (32, 4), (32, 9), (36, 6), (42, 5)], 'Text-36.txt': [(6, 6), (16, 3)], 'Text-37.txt': [(44, 9)], 'Text-8.txt': [(14, 3), (24, 5)]}
+bleak --> {'Text-2.txt': [(14, 10)], 'Text-36.txt': [(4, 10)]}
+frontier --> {'Text-2.txt': [(14, 11)], 'Text-3.txt': [(8, 10)], 'Text-35.txt': [(24, 1)], 'Text-8.txt': [(18, 7)]}
+except --> {'Text-2.txt': [(14, 12)]}
+for --> {'Text-2.txt': [(16, 1), (20, 9), (24, 4), (26, 6), (28, 1)], 'Text-3.txt': [(2, 10), (6, 3), (12, 3), (18, 12), (20, 11), (46, 1)], 'Text-35.txt': [(10, 2), (24, 4), (36, 8), (38, 12), (42, 6), (50, 2)], 'Text-36.txt': [(12, 11)], 'Text-37.txt': [(10, 11), (18, 4), (24, 10)], 'Text-4.txt': [(10, 11)], 'Text-8.txt': [(20, 12)]}
+1958 --> {'Text-2.txt': [(16, 2)]}
+each --> {'Text-2.txt': [(16, 3)], 'Text-3.txt': [(34, 8)]}
+harvest --> {'Text-2.txt': [(16, 4)]}
+has --> {'Text-2.txt': [(16, 5)], 'Text-35.txt': [(8, 12)], 'Text-36.txt': [(10, 5)], 'Text-37.txt': [(16, 10), (20, 11)], 'Text-8.txt': [(28, 9)]}
+been --> {'Text-2.txt': [(16, 6)], 'Text-3.txt': [(2, 8)], 'Text-35.txt': [(48, 9)], 'Text-36.txt': [(20, 7)], 'Text-37.txt': [(26, 5)]}
+lower --> {'Text-2.txt': [(16, 7)]}
+than --> {'Text-2.txt': [(16, 8)], 'Text-35.txt': [(6, 9), (10, 4)]}
+previous --> {'Text-2.txt': [(16, 10)]}
+year --> {'Text-2.txt': [(16, 11), (18, 1)], 'Text-37.txt': [(28, 2)]}
+worst --> {'Text-2.txt': [(16, 13)]}
+all --> {'Text-2.txt': [(18, 3)], 'Text-3.txt': [(34, 4), (40, 13)], 'Text-37.txt': [(32, 2)]}
+1962 --> {'Text-2.txt': [(18, 5)]}
+when --> {'Text-2.txt': [(18, 6)], 'Text-3.txt': [(20, 3), (58, 4), (60, 7)], 'Text-35.txt': [(4, 11)], 'Text-37.txt': [(4, 7)]}
+delivered --> {'Text-2.txt': [(18, 10)]}
+only --> {'Text-2.txt': [(18, 11), (34, 12)], 'Text-3.txt': [(56, 11), (76, 5)], 'Text-36.txt': [(12, 5)], 'Text-8.txt': [(28, 1)]}
+half --> {'Text-2.txt': [(18, 12)]}
+their --> {'Text-2.txt': [(18, 13)], 'Text-3.txt': [(42, 10)], 'Text-35.txt': [(18, 8), (20, 7), (24, 5), (26, 5), (28, 5), (30, 4), (56, 2)], 'Text-8.txt': [(18, 9)]}
+quotas --> {'Text-2.txt': [(20, 1)]}
+naturally --> {'Text-2.txt': [(20, 2)]}
+takes --> {'Text-2.txt': [(20, 4)]}
+none --> {'Text-2.txt': [(20, 5)]}
+blame --> {'Text-2.txt': [(20, 8)]}
+fiasco --> {'Text-2.txt': [(20, 11)]}
+three --> {'Text-2.txt': [(22, 1)], 'Text-3.txt': [(44, 6), (70, 5)], 'Text-35.txt': [(42, 7)]}
+ago --> {'Text-2.txt': [(22, 3)]}
+he --> {'Text-2.txt': [(22, 4)], 'Text-3.txt': [(12, 1)], 'Text-35.txt': [(38, 10), (48, 3)], 'Text-37.txt': [(20, 2)], 'Text-4.txt': [(8, 11), (14, 10)]}
+found --> {'Text-2.txt': [(22, 5)]}
+a --> {'Text-2.txt': [(22, 6), (32, 6), (34, 7), (38, 2)], 'Text-3.txt': [(6, 7), (14, 9), (24, 6), (30, 2), (46, 7), (56, 12), (58, 5), (70, 10), (80, 9), (80, 11), (82, 13)], 'Text-35.txt': [(4, 8), (20, 1), (22, 2), (28, 1), (28, 11), (32, 5), (50, 8)], 'Text-36.txt': [(22, 4)], 'Text-37.txt': [(10, 9), (14, 2), (18, 2), (22, 6), (30, 4)], 'Text-4.txt': [(6, 6), (8, 4), (10, 5), (18, 5), (24, 10)], 'Text-8.txt': [(2, 8), (8, 2), (8, 8), (16, 12), (28, 12)]}
+scapegoat --> {'Text-2.txt': [(22, 7)]}
+party --> {'Text-2.txt': [(22, 10), (30, 5)], 'Text-37.txt': [(22, 11)]}
+boss --> {'Text-2.txt': [(22, 11), (36, 13)]}
+nikolai --> {'Text-2.txt': [(22, 12), (32, 3)]}
+belyaev --> {'Text-2.txt': [(24, 1), (24, 9)]}
+fired --> {'Text-2.txt': [(24, 2)]}
+him --> {'Text-2.txt': [(24, 3)], 'Text-3.txt': [(6, 2)], 'Text-4.txt': [(12, 4), (20, 1), (34, 3)]}
+errors --> {'Text-2.txt': [(24, 6)]}
+last --> {'Text-2.txt': [(24, 7), (32, 10)], 'Text-3.txt': [(2, 3), (20, 13), (40, 12), (60, 9)], 'Text-35.txt': [(14, 4), (18, 1)], 'Text-36.txt': [(28, 7)], 'Text-37.txt': [(12, 11)], 'Text-8.txt': [(4, 1)]}
+week --> {'Text-2.txt': [(24, 8), (34, 1)], 'Text-35.txt': [(18, 2)], 'Text-36.txt': [(28, 8)], 'Text-37.txt': [(12, 12), (38, 4)], 'Text-8.txt': [(4, 2)]}
+successor --> {'Text-2.txt': [(24, 11)]}
+dinmukhamed --> {'Text-2.txt': [(26, 1)]}
+kunaev --> {'Text-2.txt': [(26, 2)]}
+similarly --> {'Text-2.txt': [(26, 4)]}
+bounced --> {'Text-2.txt': [(26, 5)]}
+lapses --> {'Text-2.txt': [(26, 7)]}
+work --> {'Text-2.txt': [(26, 10)]}
+good --> {'Text-2.txt': [(28, 2)]}
+measure --> {'Text-2.txt': [(28, 3)]}
+moscow --> {'Text-2.txt': [(28, 4)]}
+also --> {'Text-2.txt': [(28, 5)]}
+purged --> {'Text-2.txt': [(28, 6)]}
+former --> {'Text-2.txt': [(28, 8)], 'Text-35.txt': [(26, 6)]}
+premier --> {'Text-2.txt': [(28, 9), (34, 10)], 'Text-37.txt': [(28, 5)], 'Text-8.txt': [(4, 6), (6, 3), (22, 2)]}
+territory --> {'Text-2.txt': [(30, 1)]}
+from --> {'Text-2.txt': [(30, 2)], 'Text-37.txt': [(4, 11)], 'Text-4.txt': [(22, 7), (28, 8), (32, 2)]}
+local --> {'Text-2.txt': [(30, 4)], 'Text-3.txt': [(12, 5)]}
+central --> {'Text-2.txt': [(30, 7)]}
+committee --> {'Text-2.txt': [(30, 8), (38, 4)]}
+perhaps --> {'Text-2.txt': [(30, 11)]}
+no --> {'Text-2.txt': [(30, 12)], 'Text-3.txt': [(64, 4), (82, 5)], 'Text-35.txt': [(2, 10), (6, 7)], 'Text-37.txt': [(2, 3), (42, 2)]}
+coincidence --> {'Text-2.txt': [(32, 1)]}
+ignatov --> {'Text-2.txt': [(32, 4), (36, 7)]}
+61 --> {'Text-2.txt': [(32, 5)]}
+onetime --> {'Text-2.txt': [(32, 7)]}
+crony --> {'Text-2.txt': [(32, 9)]}
+abruptly --> {'Text-2.txt': [(34, 2)]}
+left --> {'Text-2.txt': [(34, 3)]}
+post --> {'Text-2.txt': [(34, 5)]}
+as --> {'Text-2.txt': [(34, 6)], 'Text-35.txt': [(16, 5)], 'Text-37.txt': [(28, 9)], 'Text-4.txt': [(14, 9), (30, 4)], 'Text-8.txt': [(8, 1)]}
+soviet --> {'Text-2.txt': [(34, 8)], 'Text-8.txt': [(8, 10), (30, 5)]}
+deputy --> {'Text-2.txt': [(34, 9)]}
+after --> {'Text-2.txt': [(34, 11)], 'Text-37.txt': [(6, 2)]}
+nine --> {'Text-2.txt': [(34, 13)]}
+months --> {'Text-2.txt': [(36, 1)], 'Text-3.txt': [(2, 11)]}
+job --> {'Text-2.txt': [(36, 4)]}
+farm --> {'Text-2.txt': [(36, 5)]}
+expert --> {'Text-2.txt': [(36, 6)]}
+had --> {'Text-2.txt': [(36, 8)], 'Text-3.txt': [(2, 7), (66, 12)], 'Text-37.txt': [(8, 9)], 'Text-8.txt': [(22, 11)]}
+misfortune --> {'Text-2.txt': [(36, 10)]}
+be --> {'Text-2.txt': [(36, 12)], 'Text-3.txt': [(22, 7)], 'Text-35.txt': [(28, 7), (30, 6)], 'Text-37.txt': [(4, 5)], 'Text-4.txt': [(10, 4)]}
+special --> {'Text-2.txt': [(38, 3)]}
+boost --> {'Text-2.txt': [(38, 6)]}
+food --> {'Text-2.txt': [(38, 7)]}
+production --> {'Text-2.txt': [(38, 8)]}
+berlin --> {'Text-3.txt': [(2, 1), (48, 13), (64, 1), (84, 6)]}
+one --> {'Text-3.txt': [(2, 2), (10, 7), (20, 12), (38, 10)], 'Text-35.txt': [(8, 8), (44, 7)], 'Text-36.txt': [(8, 4)], 'Text-37.txt': [(2, 5), (22, 3)], 'Text-4.txt': [(14, 6)]}
+run --> {'Text-3.txt': [(2, 4), (22, 1)]}
+hans --> {'Text-3.txt': [(2, 5), (10, 3)]}
+weidner --> {'Text-3.txt': [(2, 6), (6, 4), (10, 4), (20, 4), (24, 3), (28, 4), (28, 8), (42, 6), (66, 11)]}
+hoping --> {'Text-3.txt': [(2, 9)]}
+escape --> {'Text-3.txt': [(4, 1), (50, 5)]}
+drab --> {'Text-3.txt': [(4, 2)]}
+east --> {'Text-3.txt': [(4, 3), (52, 13)], 'Text-36.txt': [(14, 13)]}
+germany --> {'Text-3.txt': [(4, 4)]}
+make --> {'Text-3.txt': [(4, 6)]}
+way --> {'Text-3.txt': [(4, 8)]}
+west --> {'Text-3.txt': [(4, 11), (52, 7), (52, 14), (84, 5)]}
+odds --> {'Text-3.txt': [(4, 13)]}
+against --> {'Text-3.txt': [(6, 1)], 'Text-36.txt': [(18, 5)], 'Text-37.txt': [(18, 8), (24, 5)]}
+40 --> {'Text-3.txt': [(6, 5), (72, 11)]}
+cripple --> {'Text-3.txt': [(6, 8)]}
+crutches --> {'Text-3.txt': [(6, 10)]}
+lived --> {'Text-3.txt': [(6, 12)]}
+village --> {'Text-3.txt': [(8, 2)]}
+neugersdorf --> {'Text-3.txt': [(8, 4)]}
+115 --> {'Text-3.txt': [(8, 5)]}
+miles --> {'Text-3.txt': [(8, 6), (58, 2), (80, 13)], 'Text-36.txt': [(16, 7)]}
+southeast --> {'Text-3.txt': [(8, 7)]}
+freedom --> {'Text-3.txt': [(10, 1)]}
+but --> {'Text-3.txt': [(10, 2), (32, 1), (70, 7)], 'Text-35.txt': [(4, 5), (16, 1), (50, 4)], 'Text-36.txt': [(10, 3), (24, 2), (30, 9)], 'Text-37.txt': [(12, 10), (30, 8), (40, 10)]}
+have --> {'Text-3.txt': [(10, 6)], 'Text-35.txt': [(8, 2), (48, 8)], 'Text-36.txt': [(20, 6)], 'Text-37.txt': [(26, 4), (34, 5)]}
+major --> {'Text-3.txt': [(10, 8)]}
+asset --> {'Text-3.txt': [(10, 9)]}
+bus --> {'Text-3.txt': [(10, 11), (18, 9), (30, 10), (40, 7), (48, 6), (70, 11), (80, 5)]}
+operated --> {'Text-3.txt': [(12, 2)]}
+regime --> {'Text-3.txt': [(12, 7)], 'Text-36.txt': [(26, 8)]}
+an --> {'Text-3.txt': [(12, 10)], 'Text-35.txt': [(38, 5), (54, 6)], 'Text-36.txt': [(24, 3), (26, 4)], 'Text-37.txt': [(28, 10)]}
+ugly --> {'Text-3.txt': [(12, 11)]}
+thing --> {'Text-3.txt': [(12, 12)]}
+ancient --> {'Text-3.txt': [(14, 1)]}
+its --> {'Text-3.txt': [(14, 2), (76, 9), (76, 12), (78, 3)], 'Text-36.txt': [(4, 6), (10, 6), (16, 4)], 'Text-37.txt': [(6, 8)], 'Text-8.txt': [(16, 2), (24, 2)]}
+chassis --> {'Text-3.txt': [(14, 3)]}
+creaked --> {'Text-3.txt': [(14, 4)]}
+engine --> {'Text-3.txt': [(14, 7)]}
+coughed --> {'Text-3.txt': [(14, 8)]}
+cream --> {'Text-3.txt': [(16, 1)]}
+colored --> {'Text-3.txt': [(16, 2)]}
+coat --> {'Text-3.txt': [(16, 3)]}
+paint --> {'Text-3.txt': [(16, 5)]}
+could --> {'Text-3.txt': [(16, 6)]}
+disguise --> {'Text-3.txt': [(16, 8)]}
+welts --> {'Text-3.txt': [(16, 10)]}
+bruises --> {'Text-3.txt': [(16, 12)]}
+decades --> {'Text-3.txt': [(18, 2)]}
+chugging --> {'Text-3.txt': [(18, 4)]}
+service --> {'Text-3.txt': [(18, 5), (20, 10)], 'Text-4.txt': [(12, 11)]}
+fact --> {'Text-3.txt': [(18, 7)], 'Text-37.txt': [(20, 8)]}
+ready --> {'Text-3.txt': [(18, 11), (42, 2)]}
+junk --> {'Text-3.txt': [(20, 1)]}
+pile --> {'Text-3.txt': [(20, 2)]}
+decided --> {'Text-3.txt': [(20, 5)]}
+press --> {'Text-3.txt': [(20, 7)]}
+into --> {'Text-3.txt': [(20, 9), (48, 1)]}
+sharp --> {'Text-3.txt': [(22, 2), (36, 1)]}
+blades --> {'Text-3.txt': [(22, 3), (36, 2)]}
+hazards --> {'Text-3.txt': [(22, 5)]}
+would --> {'Text-3.txt': [(22, 6), (38, 1)], 'Text-35.txt': [(36, 4), (40, 8)], 'Text-4.txt': [(8, 1)]}
+great --> {'Text-3.txt': [(22, 8)], 'Text-35.txt': [(4, 1)]}
+journey --> {'Text-3.txt': [(22, 11)]}
+border --> {'Text-3.txt': [(24, 1)], 'Text-8.txt': [(24, 3), (28, 13)]}
+so --> {'Text-3.txt': [(24, 2), (36, 8)]}
+signed --> {'Text-3.txt': [(24, 4)], 'Text-8.txt': [(16, 11)]}
+fellow --> {'Text-3.txt': [(24, 7)]}
+villager --> {'Text-3.txt': [(24, 8)]}
+jurgen --> {'Text-3.txt': [(24, 9)]}
+wagner --> {'Text-3.txt': [(24, 10), (28, 10), (42, 8), (72, 9)]}
+22 --> {'Text-3.txt': [(24, 11)]}
+wheel --> {'Text-3.txt': [(26, 3), (34, 10)]}
+eight --> {'Text-3.txt': [(26, 4)]}
+days --> {'Text-3.txt': [(26, 5)], 'Text-35.txt': [(42, 10)], 'Text-4.txt': [(4, 6)]}
+before --> {'Text-3.txt': [(26, 6), (50, 9)], 'Text-4.txt': [(6, 10)]}
+christmas --> {'Text-3.txt': [(26, 7), (42, 4)], 'Text-37.txt': [(24, 2)]}
+pair --> {'Text-3.txt': [(26, 9)]}
+began --> {'Text-3.txt': [(26, 10), (72, 6)]}
+feverish --> {'Text-3.txt': [(28, 1)]}
+preparations --> {'Text-3.txt': [(28, 2)]}
+garage --> {'Text-3.txt': [(28, 6)]}
+first --> {'Text-3.txt': [(28, 7), (70, 3)], 'Text-4.txt': [(14, 2)]}
+attached --> {'Text-3.txt': [(30, 1)]}
+heavy --> {'Text-3.txt': [(30, 3), (32, 6)]}
+snowplow --> {'Text-3.txt': [(30, 4)]}
+front --> {'Text-3.txt': [(30, 7), (34, 9)]}
+snow --> {'Text-3.txt': [(30, 14)]}
+scoop --> {'Text-3.txt': [(32, 3)]}
+away --> {'Text-3.txt': [(32, 4), (76, 8)]}
+obstacles --> {'Text-3.txt': [(32, 7)]}
+they --> {'Text-3.txt': [(32, 8), (34, 11), (38, 8), (48, 8), (50, 10), (52, 3), (56, 9), (60, 10)], 'Text-35.txt': [(4, 6), (14, 6)], 'Text-4.txt': [(14, 1), (28, 1)]}
+knew --> {'Text-3.txt': [(32, 9)]}
+awaited --> {'Text-3.txt': [(32, 10)]}
+them --> {'Text-3.txt': [(32, 11)], 'Text-35.txt': [(20, 5)]}
+at --> {'Text-3.txt': [(32, 12), (40, 11), (60, 8), (60, 12), (72, 10), (82, 8)], 'Text-35.txt': [(4, 3), (6, 5), (40, 10)], 'Text-37.txt': [(38, 3)], 'Text-4.txt': [(4, 9)], 'Text-8.txt': [(4, 3), (20, 6), (20, 8)]}
+roadblocks --> {'Text-3.txt': [(34, 1)]}
+ahead --> {'Text-3.txt': [(34, 2), (76, 1)]}
+six --> {'Text-3.txt': [(34, 5)]}
+lugs --> {'Text-3.txt': [(34, 6)]}
+bolted --> {'Text-3.txt': [(34, 12)]}
+toughest --> {'Text-3.txt': [(36, 5)]}
+steel --> {'Text-3.txt': [(36, 6), (40, 3)]}
+affixed --> {'Text-3.txt': [(36, 7)]}
+whirling --> {'Text-3.txt': [(36, 11)]}
+edges --> {'Text-3.txt': [(36, 12)]}
+chop --> {'Text-3.txt': [(38, 2)]}
+barbed --> {'Text-3.txt': [(38, 3)]}
+wire --> {'Text-3.txt': [(38, 4)]}
+bits --> {'Text-3.txt': [(38, 6)]}
+then --> {'Text-3.txt': [(38, 7), (48, 7), (76, 2)], 'Text-35.txt': [(22, 7), (44, 1)], 'Text-8.txt': [(14, 2)]}
+wedged --> {'Text-3.txt': [(38, 9)]}
+quarter --> {'Text-3.txt': [(38, 11)]}
+inch --> {'Text-3.txt': [(38, 12)]}
+sections --> {'Text-3.txt': [(40, 1)]}
+plate --> {'Text-3.txt': [(40, 4)]}
+inside --> {'Text-3.txt': [(40, 5), (84, 4)], 'Text-35.txt': [(24, 8)]}
+stop --> {'Text-3.txt': [(40, 9), (64, 7), (80, 10)]}
+bullets --> {'Text-3.txt': [(40, 10)]}
+eve --> {'Text-3.txt': [(42, 5)]}
+piled --> {'Text-3.txt': [(42, 9)]}
+wives --> {'Text-3.txt': [(42, 11), (60, 1)]}
+four --> {'Text-3.txt': [(44, 1)]}
+children --> {'Text-3.txt': [(44, 2)]}
+aboard --> {'Text-3.txt': [(44, 3)], 'Text-35.txt': [(54, 5)]}
+forgetting --> {'Text-3.txt': [(44, 5)]}
+tons --> {'Text-3.txt': [(44, 7)]}
+household --> {'Text-3.txt': [(44, 9)]}
+belongings --> {'Text-3.txt': [(44, 10)]}
+added --> {'Text-3.txt': [(46, 2)]}
+protection --> {'Text-3.txt': [(46, 3)]}
+plotters --> {'Text-3.txt': [(46, 5)], 'Text-37.txt': [(18, 7)]}
+shoveled --> {'Text-3.txt': [(46, 6)]}
+ton --> {'Text-3.txt': [(46, 8)]}
+coal --> {'Text-3.txt': [(46, 10), (78, 6)]}
+potatoes --> {'Text-3.txt': [(46, 12), (64, 11), (78, 8)]}
+back --> {'Text-3.txt': [(48, 3), (50, 2)], 'Text-35.txt': [(56, 8)]}
+chugged --> {'Text-3.txt': [(48, 9)]}
+off --> {'Text-3.txt': [(48, 10)], 'Text-35.txt': [(16, 4)], 'Text-4.txt': [(34, 4)], 'Text-8.txt': [(8, 6)]}
+north --> {'Text-3.txt': [(48, 11)]}
+toward --> {'Text-3.txt': [(48, 12)]}
+along --> {'Text-3.txt': [(50, 1)]}
+roads --> {'Text-3.txt': [(50, 3)]}
+patrols --> {'Text-3.txt': [(50, 7)]}
+just --> {'Text-3.txt': [(50, 8)], 'Text-35.txt': [(52, 3)], 'Text-4.txt': [(6, 5), (30, 3)]}
+reached --> {'Text-3.txt': [(50, 11)]}
+wall --> {'Text-3.txt': [(52, 2)]}
+planned --> {'Text-3.txt': [(52, 4)]}
+swing --> {'Text-3.txt': [(52, 6)]}
+order --> {'Text-3.txt': [(52, 9)]}
+enter --> {'Text-3.txt': [(52, 11)]}
+autobahn --> {'Text-3.txt': [(54, 1), (62, 10)]}
+leading --> {'Text-3.txt': [(54, 2)]}
+u --> {'Text-3.txt': [(54, 5), (82, 10)], 'Text-4.txt': [(12, 8), (18, 8), (28, 10)]}
+sector --> {'Text-3.txt': [(54, 7)]}
+city --> {'Text-3.txt': [(54, 10)]}
+en --> {'Text-3.txt': [(54, 11)], 'Text-8.txt': [(4, 8), (16, 9), (22, 4)]}
+route --> {'Text-3.txt': [(54, 12)]}
+radiator --> {'Text-3.txt': [(56, 1)]}
+froze --> {'Text-3.txt': [(56, 2)]}
+subzero --> {'Text-3.txt': [(56, 5)]}
+weather --> {'Text-3.txt': [(56, 6)]}
+fixed --> {'Text-3.txt': [(56, 8)]}
+few --> {'Text-3.txt': [(58, 1), (80, 12)]}
+farther --> {'Text-3.txt': [(58, 3)]}
+tire --> {'Text-3.txt': [(58, 6)]}
+blew --> {'Text-3.txt': [(58, 7)]}
+out --> {'Text-3.txt': [(58, 8)], 'Text-4.txt': [(10, 2)]}
+kids --> {'Text-3.txt': [(58, 10)]}
+crying --> {'Text-3.txt': [(58, 12)]}
+shivering --> {'Text-3.txt': [(60, 2)]}
+cold --> {'Text-3.txt': [(60, 4)]}
+panic --> {'Text-3.txt': [(60, 6)]}
+arrived --> {'Text-3.txt': [(60, 11)]}
+drewitz --> {'Text-3.txt': [(62, 1)]}
+most --> {'Text-3.txt': [(62, 3)], 'Text-36.txt': [(8, 9)], 'Text-37.txt': [(2, 8)]}
+heavily --> {'Text-3.txt': [(62, 4)]}
+guarded --> {'Text-3.txt': [(62, 5)]}
+checkpoint --> {'Text-3.txt': [(62, 6), (82, 12)]}
+entire --> {'Text-3.txt': [(62, 9)]}
+time --> {'Text-3.txt': [(64, 5)], 'Text-35.txt': [(38, 13)], 'Text-37.txt': [(24, 7)], 'Text-4.txt': [(6, 9)]}
+reconsider --> {'Text-3.txt': [(64, 9)]}
+flying --> {'Text-3.txt': [(64, 10)]}
+wah --> {'Text-3.txt': [(66, 1), (66, 3)]}
+ah --> {'Text-3.txt': [(66, 2), (66, 4)]}
+shrieked --> {'Text-3.txt': [(66, 5)]}
+police --> {'Text-3.txt': [(66, 7)], 'Text-4.txt': [(12, 12)]}
+type --> {'Text-3.txt': [(66, 8)]}
+klaxons --> {'Text-3.txt': [(66, 9)]}
+thoughtfully --> {'Text-3.txt': [(68, 1)]}
+installed --> {'Text-3.txt': [(68, 2)]}
+advance --> {'Text-3.txt': [(68, 4)]}
+guards --> {'Text-3.txt': [(68, 7)]}
+obediently --> {'Text-3.txt': [(68, 8)]}
+raised --> {'Text-3.txt': [(70, 1)], 'Text-36.txt': [(38, 2)]}
+barriers --> {'Text-3.txt': [(70, 6)]}
+what --> {'Text-3.txt': [(70, 8)]}
+doing --> {'Text-3.txt': [(70, 12)]}
+emergency --> {'Text-3.txt': [(72, 1)]}
+duty --> {'Text-3.txt': [(72, 2)]}
+suddenly --> {'Text-3.txt': [(72, 3)], 'Text-35.txt': [(44, 9)]}
+shooting --> {'Text-3.txt': [(72, 5)]}
+too --> {'Text-3.txt': [(72, 7)]}
+late --> {'Text-3.txt': [(72, 8)]}
+m --> {'Text-3.txt': [(74, 1)]}
+p --> {'Text-3.txt': [(74, 2)]}
+h --> {'Text-3.txt': [(74, 3)]}
+already --> {'Text-3.txt': [(74, 5)]}
+crashing --> {'Text-3.txt': [(74, 6)]}
+through --> {'Text-3.txt': [(74, 7)], 'Text-4.txt': [(16, 8)], 'Text-8.txt': [(12, 3)]}
+second --> {'Text-3.txt': [(74, 9)], 'Text-8.txt': [(2, 9)]}
+barrier --> {'Text-3.txt': [(74, 10)]}
+100 --> {'Text-3.txt': [(74, 11)]}
+yards --> {'Text-3.txt': [(74, 12), (76, 7)]}
+third --> {'Text-3.txt': [(76, 4)]}
+20 --> {'Text-3.txt': [(76, 6)]}
+windshield --> {'Text-3.txt': [(76, 10)]}
+smashed --> {'Text-3.txt': [(76, 11)]}
+passengers --> {'Text-3.txt': [(78, 1)]}
+shaken --> {'Text-3.txt': [(78, 2)]}
+cargo --> {'Text-3.txt': [(78, 4)]}
+every --> {'Text-3.txt': [(78, 10)]}
+corner --> {'Text-3.txt': [(78, 11)]}
+cab --> {'Text-3.txt': [(80, 2)]}
+old --> {'Text-3.txt': [(80, 4)], 'Text-35.txt': [(18, 9), (24, 6), (38, 6)], 'Text-37.txt': [(28, 3)]}
+finally --> {'Text-3.txt': [(80, 6)]}
+lurched --> {'Text-3.txt': [(80, 7)]}
+down --> {'Text-3.txt': [(80, 14)]}
+road --> {'Text-3.txt': [(82, 1)], 'Text-4.txt': [(2, 2)]}
+where --> {'Text-3.txt': [(82, 2)]}
+communists --> {'Text-3.txt': [(82, 4)]}
+longer --> {'Text-3.txt': [(82, 6)]}
+mattered --> {'Text-3.txt': [(82, 7)]}
+foot --> {'Text-3.txt': [(84, 1)]}
+or --> {'Text-3.txt': [(84, 2)], 'Text-35.txt': [(48, 11)]}
+syria --> {'Text-35.txt': [(2, 1), (2, 6), (12, 12), (24, 9)]}
+foiled --> {'Text-35.txt': [(2, 2)]}
+again --> {'Text-35.txt': [(2, 3), (18, 11)]}
+generally --> {'Text-35.txt': [(2, 4)]}
+speaking --> {'Text-35.txt': [(2, 5)]}
+soldiers --> {'Text-35.txt': [(2, 8), (32, 2), (52, 7)]}
+are --> {'Text-35.txt': [(2, 9)], 'Text-36.txt': [(16, 1)], 'Text-4.txt': [(4, 7)]}
+shakes --> {'Text-35.txt': [(4, 2)]}
+fighting --> {'Text-35.txt': [(4, 4)], 'Text-37.txt': [(12, 8)]}
+re --> {'Text-35.txt': [(4, 7)]}
+persistent --> {'Text-35.txt': [(4, 9)]}
+lot --> {'Text-35.txt': [(4, 10)]}
+comes --> {'Text-35.txt': [(4, 13)]}
+overthrowing --> {'Text-35.txt': [(6, 2)]}
+government --> {'Text-35.txt': [(6, 4), (14, 12)], 'Text-36.txt': [(36, 1)], 'Text-37.txt': [(18, 10), (32, 7), (38, 2)]}
+home --> {'Text-35.txt': [(6, 6)], 'Text-37.txt': [(40, 4)]}
+fewer --> {'Text-35.txt': [(6, 8)]}
+ten --> {'Text-35.txt': [(6, 10)]}
+attempted --> {'Text-35.txt': [(6, 11)]}
+coups --> {'Text-35.txt': [(8, 1)]}
+taken --> {'Text-35.txt': [(8, 3)]}
+place --> {'Text-35.txt': [(8, 4)], 'Text-36.txt': [(36, 4)]}
+13 --> {'Text-35.txt': [(8, 6)], 'Text-37.txt': [(26, 2)]}
+group --> {'Text-35.txt': [(8, 9), (20, 11)]}
+officers --> {'Text-35.txt': [(8, 11), (18, 4)]}
+plotted --> {'Text-35.txt': [(8, 13)]}
+steadily --> {'Text-35.txt': [(10, 1)]}
+more --> {'Text-35.txt': [(10, 3)], 'Text-37.txt': [(2, 4)]}
+led --> {'Text-35.txt': [(10, 7)], 'Text-4.txt': [(12, 3)]}
+by --> {'Text-35.txt': [(10, 8), (18, 13), (26, 2)], 'Text-36.txt': [(24, 8)], 'Text-37.txt': [(20, 6), (40, 2)]}
+colonel --> {'Text-35.txt': [(10, 9), (46, 7)]}
+abdel --> {'Text-35.txt': [(10, 10)]}
+karim --> {'Text-35.txt': [(10, 11)]}
+nahlawi --> {'Text-35.txt': [(10, 12), (26, 10), (34, 7), (40, 7), (46, 8)]}
+39 --> {'Text-35.txt': [(12, 1)]}
+military --> {'Text-35.txt': [(12, 3), (16, 6)]}
+malcontents --> {'Text-35.txt': [(12, 4)]}
+coup --> {'Text-35.txt': [(12, 9)]}
+severed --> {'Text-35.txt': [(12, 11)]}
+union --> {'Text-35.txt': [(14, 1)], 'Text-36.txt': [(36, 7)], 'Text-8.txt': [(30, 6)]}
+egypt --> {'Text-35.txt': [(14, 3), (34, 5)]}
+march --> {'Text-35.txt': [(14, 5), (36, 5)], 'Text-36.txt': [(24, 1)]}
+tried --> {'Text-35.txt': [(14, 7)]}
+over --> {'Text-35.txt': [(14, 10)], 'Text-36.txt': [(34, 13)]}
+packed --> {'Text-35.txt': [(16, 3)]}
+attaches --> {'Text-35.txt': [(16, 7)]}
+syrian --> {'Text-35.txt': [(16, 9)]}
+embassies --> {'Text-35.txt': [(16, 10)]}
+abroad --> {'Text-35.txt': [(16, 11)]}
+tricks --> {'Text-35.txt': [(18, 10)]}
+incensed --> {'Text-35.txt': [(18, 12)]}
+damascus --> {'Text-35.txt': [(20, 2), (36, 7)]}
+decree --> {'Text-35.txt': [(20, 3)]}
+stripping --> {'Text-35.txt': [(20, 4)]}
+army --> {'Text-35.txt': [(20, 8), (40, 11), (46, 2)], 'Text-37.txt': [(44, 4)]}
+status --> {'Text-35.txt': [(20, 9)]}
+arranged --> {'Text-35.txt': [(22, 1)]}
+dramatic --> {'Text-35.txt': [(22, 3)]}
+rendezvous --> {'Text-35.txt': [(22, 4)]}
+turkey --> {'Text-35.txt': [(22, 6)]}
+quietly --> {'Text-35.txt': [(22, 8)]}
+crossed --> {'Text-35.txt': [(22, 9)]}
+made --> {'Text-35.txt': [(24, 3)], 'Text-36.txt': [(28, 11)], 'Text-37.txt': [(38, 8)], 'Text-8.txt': [(8, 11), (28, 11)]}
+barracks --> {'Text-35.txt': [(24, 7)]}
+greeted --> {'Text-35.txt': [(24, 10)]}
+joyously --> {'Text-35.txt': [(26, 1)]}
+some --> {'Text-35.txt': [(26, 3), (52, 9)]}
+comrades --> {'Text-35.txt': [(26, 7)]}
+arms --> {'Text-35.txt': [(26, 9)]}
+men --> {'Text-35.txt': [(26, 12), (48, 6)], 'Text-37.txt': [(12, 9)]}
+issued --> {'Text-35.txt': [(26, 13)]}
+public --> {'Text-35.txt': [(28, 2)]}
+demand --> {'Text-35.txt': [(28, 3)]}
+discharges --> {'Text-35.txt': [(28, 6)]}
+canceled --> {'Text-35.txt': [(28, 8)]}
+new --> {'Text-35.txt': [(28, 12)], 'Text-36.txt': [(22, 5)]}
+general --> {'Text-35.txt': [(30, 1)]}
+staff --> {'Text-35.txt': [(30, 2)]}
+liking --> {'Text-35.txt': [(30, 5)]}
+put --> {'Text-35.txt': [(30, 7)], 'Text-8.txt': [(12, 2)]}
+power --> {'Text-35.txt': [(30, 9)], 'Text-37.txt': [(34, 7)]}
+confuse --> {'Text-35.txt': [(30, 11)]}
+things --> {'Text-35.txt': [(30, 12)], 'Text-36.txt': [(28, 5)]}
+rebellious --> {'Text-35.txt': [(32, 1)]}
+insisted --> {'Text-35.txt': [(32, 3)]}
+plebiscite --> {'Text-35.txt': [(32, 6)]}
+decide --> {'Text-35.txt': [(32, 8)]}
+closer --> {'Text-35.txt': [(32, 10)]}
+relations --> {'Text-35.txt': [(34, 1)], 'Text-37.txt': [(36, 11), (42, 6)]}
+nasser --> {'Text-35.txt': [(34, 3)]}
+otherwise --> {'Text-35.txt': [(34, 6)]}
+threatened --> {'Text-35.txt': [(34, 8)]}
+troops --> {'Text-35.txt': [(34, 9)], 'Text-36.txt': [(14, 7)], 'Text-37.txt': [(46, 1)]}
+under --> {'Text-35.txt': [(36, 1)]}
+control --> {'Text-35.txt': [(36, 3)], 'Text-36.txt': [(30, 8)]}
+president --> {'Text-35.txt': [(36, 9)], 'Text-37.txt': [(8, 5)]}
+nazem --> {'Text-35.txt': [(36, 10)]}
+el --> {'Text-35.txt': [(38, 1)]}
+koudsi --> {'Text-35.txt': [(38, 2), (44, 2), (50, 5)]}
+familiar --> {'Text-35.txt': [(38, 7)]}
+tune --> {'Text-35.txt': [(38, 8)]}
+coolly --> {'Text-35.txt': [(38, 9)]}
+played --> {'Text-35.txt': [(38, 11)]}
+agreed --> {'Text-35.txt': [(40, 1)]}
+consider --> {'Text-35.txt': [(40, 3)]}
+demands --> {'Text-35.txt': [(40, 5)]}
+if --> {'Text-35.txt': [(40, 6)]}
+negotiate --> {'Text-35.txt': [(40, 9)]}
+headquarters --> {'Text-35.txt': [(42, 1)]}
+talks --> {'Text-35.txt': [(42, 3)]}
+dragged --> {'Text-35.txt': [(42, 4)]}
+crisis --> {'Text-35.txt': [(42, 8)]}
+filled --> {'Text-35.txt': [(42, 9)]}
+mobilized --> {'Text-35.txt': [(44, 3)]}
+own --> {'Text-35.txt': [(44, 5)]}
+forces --> {'Text-35.txt': [(44, 6)]}
+night --> {'Text-35.txt': [(44, 8)]}
+surrounded --> {'Text-35.txt': [(44, 10)]}
+ghq --> {'Text-35.txt': [(46, 3)]}
+armored --> {'Text-35.txt': [(46, 5)]}
+cars --> {'Text-35.txt': [(46, 6)]}
+got --> {'Text-35.txt': [(46, 9)]}
+point --> {'Text-35.txt': [(46, 11)], 'Text-8.txt': [(26, 10)]}
+another --> {'Text-35.txt': [(48, 1)], 'Text-8.txt': [(20, 2)]}
+country --> {'Text-35.txt': [(48, 2)]}
+might --> {'Text-35.txt': [(48, 7)]}
+jailed --> {'Text-35.txt': [(48, 10)]}
+even --> {'Text-35.txt': [(48, 12)]}
+executed --> {'Text-35.txt': [(50, 1)]}
+treason --> {'Text-35.txt': [(50, 3)]}
+keeps --> {'Text-35.txt': [(50, 7)]}
+prepared --> {'Text-35.txt': [(50, 9)], 'Text-4.txt': [(30, 6)]}
+resignation --> {'Text-35.txt': [(50, 10)]}
+desk --> {'Text-35.txt': [(52, 2)]}
+case --> {'Text-35.txt': [(52, 5)], 'Text-37.txt': [(34, 1)]}
+should --> {'Text-35.txt': [(52, 8)]}
+day --> {'Text-35.txt': [(52, 10)], 'Text-8.txt': [(14, 6)]}
+win --> {'Text-35.txt': [(52, 11)]}
+chose --> {'Text-35.txt': [(52, 12)]}
+push --> {'Text-35.txt': [(54, 1)]}
+luck --> {'Text-35.txt': [(54, 3)]}
+escorted --> {'Text-35.txt': [(54, 4)]}
+airliner --> {'Text-35.txt': [(54, 7)]}
+given --> {'Text-35.txt': [(54, 9)], 'Text-37.txt': [(8, 10)]}
+1 --> {'Text-35.txt': [(54, 10)]}
+000 --> {'Text-35.txt': [(54, 11)], 'Text-36.txt': [(14, 6)], 'Text-37.txt': [(10, 4), (12, 6), (44, 2), (44, 13)]}
+apiece --> {'Text-35.txt': [(54, 12)]}
+cover --> {'Text-35.txt': [(56, 1)]}
+expenses --> {'Text-35.txt': [(56, 3)]}
+rebels --> {'Text-35.txt': [(56, 5)]}
+sent --> {'Text-35.txt': [(56, 7)]}
+diplomatic --> {'Text-35.txt': [(56, 10)], 'Text-37.txt': [(42, 5)]}
+posts --> {'Text-35.txt': [(56, 11)]}
+civvies --> {'Text-35.txt': [(58, 1)]}
+south --> {'Text-36.txt': [(2, 1), (22, 8)]}
+arabia --> {'Text-36.txt': [(2, 2), (22, 9)]}
+aden --> {'Text-36.txt': [(4, 2), (6, 4), (22, 10), (28, 12)]}
+makes --> {'Text-36.txt': [(4, 3)]}
+twelve --> {'Text-36.txt': [(4, 4)]}
+stupefying --> {'Text-36.txt': [(4, 7)]}
+temperatures --> {'Text-36.txt': [(4, 8)]}
+terrain --> {'Text-36.txt': [(6, 1)]}
+britain --> {'Text-36.txt': [(6, 2), (28, 2)]}
+colony --> {'Text-36.txt': [(6, 5), (18, 4)]}
+southwestern --> {'Text-36.txt': [(6, 8)]}
+fringe --> {'Text-36.txt': [(6, 9)]}
+arabian --> {'Text-36.txt': [(8, 1)]}
+peninsula --> {'Text-36.txt': [(8, 2)]}
+is --> {'Text-36.txt': [(8, 3), (12, 3)], 'Text-4.txt': [(2, 5)], 'Text-8.txt': [(6, 8)]}
+world --> {'Text-36.txt': [(8, 7)], 'Text-37.txt': [(4, 2)]}
+unattractive --> {'Text-36.txt': [(8, 10)]}
+pieces --> {'Text-36.txt': [(8, 11)]}
+real --> {'Text-36.txt': [(10, 1)]}
+estate --> {'Text-36.txt': [(10, 2)]}
+value --> {'Text-36.txt': [(10, 7)]}
+nonetheless --> {'Text-36.txt': [(10, 8)]}
+between --> {'Text-36.txt': [(10, 9)], 'Text-8.txt': [(18, 8)]}
+suez --> {'Text-36.txt': [(10, 10)]}
+singapore --> {'Text-36.txt': [(12, 1)]}
+suitable --> {'Text-36.txt': [(12, 6)]}
+fueling --> {'Text-36.txt': [(12, 7)]}
+victualing --> {'Text-36.txt': [(12, 9)]}
+station --> {'Text-36.txt': [(12, 10)]}
+british --> {'Text-36.txt': [(14, 2), (20, 3), (28, 10)]}
+navy --> {'Text-36.txt': [(14, 3)]}
+8 --> {'Text-36.txt': [(14, 5)]}
+her --> {'Text-36.txt': [(14, 9)]}
+majesty --> {'Text-36.txt': [(14, 10)]}
+middle --> {'Text-36.txt': [(14, 12)]}
+command --> {'Text-36.txt': [(14, 14)]}
+stationed --> {'Text-36.txt': [(16, 2)]}
+75 --> {'Text-36.txt': [(16, 5)]}
+square --> {'Text-36.txt': [(16, 6)], 'Text-37.txt': [(14, 10)]}
+overheated --> {'Text-36.txt': [(16, 9)]}
+rock --> {'Text-36.txt': [(16, 10)]}
+strengthen --> {'Text-36.txt': [(16, 12)]}
+precious --> {'Text-36.txt': [(18, 2)]}
+little --> {'Text-36.txt': [(18, 3)], 'Text-8.txt': [(20, 3)]}
+covetous --> {'Text-36.txt': [(18, 7)]}
+desires --> {'Text-36.txt': [(18, 8)]}
+nearby --> {'Text-36.txt': [(18, 10)]}
+yemen --> {'Text-36.txt': [(20, 1), (24, 10), (26, 10)]}
+since --> {'Text-36.txt': [(20, 4)], 'Text-4.txt': [(2, 10)]}
+1959 --> {'Text-36.txt': [(20, 5)]}
+linking --> {'Text-36.txt': [(20, 8)]}
+neighboring --> {'Text-36.txt': [(20, 9)], 'Text-37.txt': [(8, 2)]}
+sultanates --> {'Text-36.txt': [(20, 10)]}
+emirates --> {'Text-36.txt': [(22, 2)]}
+federation --> {'Text-36.txt': [(22, 6), (30, 6), (34, 3), (36, 10)]}
+join --> {'Text-36.txt': [(22, 13)], 'Text-4.txt': [(12, 6)]}
+outburst --> {'Text-36.txt': [(24, 4)]}
+riots --> {'Text-36.txt': [(24, 6)]}
+sparked --> {'Text-36.txt': [(24, 7)]}
+pro --> {'Text-36.txt': [(24, 9)]}
+labor --> {'Text-36.txt': [(24, 11)]}
+leaders --> {'Text-36.txt': [(24, 12)]}
+emergence --> {'Text-36.txt': [(26, 2)]}
+egyptian --> {'Text-36.txt': [(26, 5)]}
+backed --> {'Text-36.txt': [(26, 6)]}
+nationalist --> {'Text-36.txt': [(26, 7)]}
+itself --> {'Text-36.txt': [(26, 11)]}
+persuaded --> {'Text-36.txt': [(28, 1)]}
+speed --> {'Text-36.txt': [(28, 4)]}
+twelfth --> {'Text-36.txt': [(30, 2)]}
+member --> {'Text-36.txt': [(30, 3)]}
+retaining --> {'Text-36.txt': [(30, 7)]}
+vaguely --> {'Text-36.txt': [(30, 10)]}
+promising --> {'Text-36.txt': [(32, 1)]}
+eventual --> {'Text-36.txt': [(32, 2)]}
+independence --> {'Text-36.txt': [(32, 3)], 'Text-37.txt': [(4, 10)]}
+arab --> {'Text-36.txt': [(32, 4)], 'Text-37.txt': [(4, 1)]}
+nationalists --> {'Text-36.txt': [(32, 5)]}
+unhappy --> {'Text-36.txt': [(32, 7)]}
+while --> {'Text-36.txt': [(34, 1)], 'Text-4.txt': [(16, 6)]}
+black --> {'Text-36.txt': [(34, 5)], 'Text-4.txt': [(26, 2)], 'Text-8.txt': [(8, 9)]}
+yellow --> {'Text-36.txt': [(34, 6)]}
+green --> {'Text-36.txt': [(34, 7)]}
+blue --> {'Text-36.txt': [(34, 9)], 'Text-4.txt': [(26, 5)]}
+flag --> {'Text-36.txt': [(34, 10)]}
+went --> {'Text-36.txt': [(34, 11)]}
+buildings --> {'Text-36.txt': [(36, 2)]}
+jack --> {'Text-36.txt': [(36, 8)]}
+anti --> {'Text-36.txt': [(36, 9)]}
+residents --> {'Text-36.txt': [(38, 1)]}
+mourning --> {'Text-36.txt': [(38, 3)]}
+flags --> {'Text-36.txt': [(38, 4)], 'Text-8.txt': [(10, 8)]}
+instead --> {'Text-36.txt': [(38, 5)]}
+tunisia --> {'Text-37.txt': [(2, 1), (8, 3), (20, 1), (40, 5), (42, 11)]}
+pals --> {'Text-37.txt': [(2, 2)]}
+perishable --> {'Text-37.txt': [(2, 9)]}
+commodities --> {'Text-37.txt': [(2, 10)]}
+seems --> {'Text-37.txt': [(4, 3)]}
+gratitude --> {'Text-37.txt': [(4, 6)]}
+algeria --> {'Text-37.txt': [(4, 8), (16, 9), (20, 10), (40, 9), (44, 10)]}
+won --> {'Text-37.txt': [(4, 9)]}
+france --> {'Text-37.txt': [(6, 1)]}
+seven --> {'Text-37.txt': [(6, 3)]}
+bloody --> {'Text-37.txt': [(6, 6)]}
+war --> {'Text-37.txt': [(6, 7)]}
+people --> {'Text-37.txt': [(6, 9)]}
+deeply --> {'Text-37.txt': [(6, 11)]}
+indebted --> {'Text-37.txt': [(6, 12)]}
+whose --> {'Text-37.txt': [(8, 4)], 'Text-4.txt': [(8, 6), (10, 9)]}
+habib --> {'Text-37.txt': [(8, 6)]}
+bourguiba --> {'Text-37.txt': [(8, 7), (16, 1), (24, 6), (26, 9), (34, 3), (38, 7)]}
+59 --> {'Text-37.txt': [(8, 8)]}
+shelter --> {'Text-37.txt': [(10, 1)]}
+200 --> {'Text-37.txt': [(10, 3)]}
+algerian --> {'Text-37.txt': [(10, 5), (12, 7), (28, 4), (32, 6)]}
+refugees --> {'Text-37.txt': [(10, 6)]}
+provided --> {'Text-37.txt': [(10, 8)]}
+refuge --> {'Text-37.txt': [(10, 10)]}
+training --> {'Text-37.txt': [(12, 1)]}
+equipment --> {'Text-37.txt': [(12, 3)]}
+18 --> {'Text-37.txt': [(12, 5)]}
+shouting --> {'Text-37.txt': [(14, 3)]}
+gesticulating --> {'Text-37.txt': [(14, 4)]}
+speech --> {'Text-37.txt': [(14, 5)]}
+vast --> {'Text-37.txt': [(14, 8)]}
+casbah --> {'Text-37.txt': [(14, 9)]}
+tunis --> {'Text-37.txt': [(14, 12)]}
+said --> {'Text-37.txt': [(16, 2)], 'Text-4.txt': [(12, 13), (24, 5), (28, 2)]}
+surprising --> {'Text-37.txt': [(16, 5)]}
+discover --> {'Text-37.txt': [(16, 7)]}
+become --> {'Text-37.txt': [(18, 1)]}
+residence --> {'Text-37.txt': [(18, 3)]}
+criminals --> {'Text-37.txt': [(18, 5)]}
+seemed --> {'Text-37.txt': [(20, 3)]}
+mostly --> {'Text-37.txt': [(20, 4)]}
+upset --> {'Text-37.txt': [(20, 5)]}
+refused --> {'Text-37.txt': [(20, 12)]}
+extradite --> {'Text-37.txt': [(22, 2)]}
+boubeker --> {'Text-37.txt': [(22, 4)]}
+mustafi --> {'Text-37.txt': [(22, 5)]}
+tunisian --> {'Text-37.txt': [(22, 7)]}
+accused --> {'Text-37.txt': [(22, 8)]}
+being --> {'Text-37.txt': [(22, 10)]}
+assassination --> {'Text-37.txt': [(24, 3)]}
+plot --> {'Text-37.txt': [(24, 4)]}
+jan --> {'Text-37.txt': [(24, 8)]}
+4 --> {'Text-37.txt': [(24, 9)]}
+which --> {'Text-37.txt': [(26, 1)]}
+tunisians --> {'Text-37.txt': [(26, 3)]}
+condemned --> {'Text-37.txt': [(26, 6)]}
+death --> {'Text-37.txt': [(26, 8)]}
+ridiculed --> {'Text-37.txt': [(26, 10)]}
+46 --> {'Text-37.txt': [(28, 1)], 'Text-8.txt': [(6, 6)]}
+ahmed --> {'Text-37.txt': [(28, 6)]}
+ben --> {'Text-37.txt': [(28, 7)]}
+bella --> {'Text-37.txt': [(28, 8)]}
+inexperienced --> {'Text-37.txt': [(28, 11)]}
+excited --> {'Text-37.txt': [(30, 1)]}
+youth --> {'Text-37.txt': [(30, 2)]}
+simple --> {'Text-37.txt': [(30, 5)]}
+minded --> {'Text-37.txt': [(30, 6)]}
+peasant --> {'Text-37.txt': [(30, 7)]}
+conceded --> {'Text-37.txt': [(30, 9)]}
+members --> {'Text-37.txt': [(32, 3)]}
+involved --> {'Text-37.txt': [(32, 9)]}
+any --> {'Text-37.txt': [(32, 11), (36, 1), (38, 1), (42, 8)]}
+boasted --> {'Text-37.txt': [(34, 2)]}
+we --> {'Text-37.txt': [(34, 4)]}
+strength --> {'Text-37.txt': [(34, 9)]}
+face --> {'Text-37.txt': [(34, 11)]}
+adversary --> {'Text-37.txt': [(36, 2)]}
+i --> {'Text-37.txt': [(36, 3)], 'Text-4.txt': [(26, 8)]}
+don --> {'Text-37.txt': [(36, 4)]}
+t --> {'Text-37.txt': [(36, 5)]}
+intend --> {'Text-37.txt': [(36, 6)]}
+keep --> {'Text-37.txt': [(36, 8)]}
+hypocritical --> {'Text-37.txt': [(36, 10)]}
+end --> {'Text-37.txt': [(38, 6)]}
+displeasure --> {'Text-37.txt': [(38, 10)]}
+official --> {'Text-37.txt': [(40, 1)]}
+summoning --> {'Text-37.txt': [(40, 3)]}
+ambassador --> {'Text-37.txt': [(40, 7)]}
+break --> {'Text-37.txt': [(42, 3)]}
+nor --> {'Text-37.txt': [(42, 7)]}
+sign --> {'Text-37.txt': [(42, 9)]}
+10 --> {'Text-37.txt': [(44, 1)]}
+man --> {'Text-37.txt': [(44, 3)]}
+preparing --> {'Text-37.txt': [(44, 6)]}
+120 --> {'Text-37.txt': [(44, 12)]}
+veteran --> {'Text-37.txt': [(44, 14)]}
+jail --> {'Text-4.txt': [(2, 4), (34, 6)]}
+paved --> {'Text-4.txt': [(2, 6)]}
+nonobjective --> {'Text-4.txt': [(2, 8)]}
+art --> {'Text-4.txt': [(2, 9), (4, 11), (32, 7)]}
+kremlin --> {'Text-4.txt': [(4, 1)]}
+sharpest --> {'Text-4.txt': [(4, 3)]}
+barbs --> {'Text-4.txt': [(4, 4)]}
+these --> {'Text-4.txt': [(4, 5)]}
+aimed --> {'Text-4.txt': [(4, 8)], 'Text-8.txt': [(20, 5)]}
+modern --> {'Text-4.txt': [(4, 10)]}
+western --> {'Text-4.txt': [(6, 1)]}
+espionage --> {'Text-4.txt': [(6, 2)]}
+matter --> {'Text-4.txt': [(6, 7)]}
+kgb --> {'Text-4.txt': [(6, 12)]}
+cops --> {'Text-4.txt': [(6, 14), (24, 7)]}
+turn --> {'Text-4.txt': [(8, 2)]}
+victim --> {'Text-4.txt': [(8, 5)]}
+wrongdoings --> {'Text-4.txt': [(8, 7)]}
+combined --> {'Text-4.txt': [(8, 8)]}
+both --> {'Text-4.txt': [(8, 9)]}
+evils --> {'Text-4.txt': [(8, 10)]}
+turned --> {'Text-4.txt': [(10, 1)]}
+leningrad --> {'Text-4.txt': [(10, 6), (18, 1)]}
+physics --> {'Text-4.txt': [(10, 7)]}
+teacher --> {'Text-4.txt': [(10, 8), (14, 5), (28, 4)]}
+taste --> {'Text-4.txt': [(10, 10)]}
+abstract --> {'Text-4.txt': [(10, 12), (32, 6)]}
+painting --> {'Text-4.txt': [(12, 1)]}
+allegedly --> {'Text-4.txt': [(12, 2)]}
+spy --> {'Text-4.txt': [(12, 10)]}
+spotted --> {'Text-4.txt': [(14, 3)]}
+rudolf --> {'Text-4.txt': [(14, 7)]}
+friedman --> {'Text-4.txt': [(14, 8), (22, 1), (24, 2), (30, 5)]}
+muttered --> {'Text-4.txt': [(14, 11)]}
+uncomplimentary --> {'Text-4.txt': [(16, 1)]}
+remarks --> {'Text-4.txt': [(16, 2)]}
+about --> {'Text-4.txt': [(16, 3), (32, 5)]}
+socialist --> {'Text-4.txt': [(16, 4)]}
+realism --> {'Text-4.txt': [(16, 5)]}
+strolling --> {'Text-4.txt': [(16, 7)]}
+russian --> {'Text-4.txt': [(18, 3)], 'Text-8.txt': [(8, 3)]}
+museum --> {'Text-4.txt': [(18, 4)]}
+well --> {'Text-4.txt': [(18, 6)]}
+dressed --> {'Text-4.txt': [(18, 7)]}
+tourist --> {'Text-4.txt': [(18, 10)]}
+approached --> {'Text-4.txt': [(18, 11)]}
+enthusiastically --> {'Text-4.txt': [(20, 2)]}
+shared --> {'Text-4.txt': [(20, 3)]}
+sentiments --> {'Text-4.txt': [(20, 5)]}
+promised --> {'Text-4.txt': [(20, 7)]}
+send --> {'Text-4.txt': [(20, 9)]}
+reproductions --> {'Text-4.txt': [(22, 2)]}
+avant --> {'Text-4.txt': [(22, 4)]}
+garde --> {'Text-4.txt': [(22, 5)]}
+paintings --> {'Text-4.txt': [(22, 6)]}
+america --> {'Text-4.txt': [(22, 8)]}
+picture --> {'Text-4.txt': [(24, 1)]}
+liked --> {'Text-4.txt': [(24, 3)]}
+best --> {'Text-4.txt': [(24, 4)]}
+indignantly --> {'Text-4.txt': [(24, 8)]}
+chaos --> {'Text-4.txt': [(24, 11)]}
+red --> {'Text-4.txt': [(26, 3)], 'Text-8.txt': [(2, 1), (2, 5), (14, 8), (22, 9)]}
+splotches --> {'Text-4.txt': [(26, 6)]}
+captioned --> {'Text-4.txt': [(26, 7)]}
+need --> {'Text-4.txt': [(26, 9)]}
+you --> {'Text-4.txt': [(26, 10)]}
+tonight --> {'Text-4.txt': [(26, 11)]}
+soon --> {'Text-4.txt': [(26, 12)]}
+getting --> {'Text-4.txt': [(28, 6)]}
+messages --> {'Text-4.txt': [(28, 7)]}
+written --> {'Text-4.txt': [(28, 12)]}
+invisible --> {'Text-4.txt': [(30, 1)]}
+ink --> {'Text-4.txt': [(30, 2)]}
+deliver --> {'Text-4.txt': [(30, 8)]}
+information --> {'Text-4.txt': [(30, 9)]}
+very --> {'Text-4.txt': [(30, 10)]}
+remote --> {'Text-4.txt': [(32, 1)]}
+theoretical --> {'Text-4.txt': [(32, 3)]}
+arguments --> {'Text-4.txt': [(32, 4)]}
+policemoved --> {'Text-4.txt': [(32, 8)]}
+hustled --> {'Text-4.txt': [(34, 2)]}
+china --> {'Text-8.txt': [(2, 2), (2, 6), (14, 9), (22, 10), (28, 8)]}
+fixing --> {'Text-8.txt': [(2, 3), (18, 2)]}
+frontiers --> {'Text-8.txt': [(2, 4)]}
+produced --> {'Text-8.txt': [(2, 7)]}
+surprise --> {'Text-8.txt': [(2, 10)]}
+peking --> {'Text-8.txt': [(4, 4)]}
+airport --> {'Text-8.txt': [(4, 5)]}
+chou --> {'Text-8.txt': [(4, 7), (16, 8), (22, 3)]}
+lai --> {'Text-8.txt': [(4, 9), (16, 10), (22, 5)]}
+welcomed --> {'Text-8.txt': [(4, 10)]}
+outer --> {'Text-8.txt': [(4, 11), (26, 6)]}
+mongolia --> {'Text-8.txt': [(6, 1), (26, 7)]}
+yumzhagiin --> {'Text-8.txt': [(6, 4)]}
+tsedenbal --> {'Text-8.txt': [(6, 5), (10, 9), (16, 6), (22, 1)]}
+normally --> {'Text-8.txt': [(6, 9)]}
+regarded --> {'Text-8.txt': [(6, 10)]}
+puppet --> {'Text-8.txt': [(8, 4)]}
+whisked --> {'Text-8.txt': [(8, 5)]}
+limousine --> {'Text-8.txt': [(8, 12)]}
+among --> {'Text-8.txt': [(10, 1)]}
+crowds --> {'Text-8.txt': [(10, 2)]}
+dutifully --> {'Text-8.txt': [(10, 3)]}
+waving --> {'Text-8.txt': [(10, 4)]}
+chinese --> {'Text-8.txt': [(10, 5)]}
+mongolian --> {'Text-8.txt': [(10, 7)]}
+usual --> {'Text-8.txt': [(12, 5)]}
+routine --> {'Text-8.txt': [(12, 6)]}
+toasts --> {'Text-8.txt': [(12, 8)]}
+banquets --> {'Text-8.txt': [(12, 9)]}
+fulsome --> {'Text-8.txt': [(12, 11)]}
+speeches --> {'Text-8.txt': [(14, 1)]}
+same --> {'Text-8.txt': [(14, 5)]}
+announced --> {'Text-8.txt': [(14, 10)]}
+plans --> {'Text-8.txt': [(14, 11)]}
+define --> {'Text-8.txt': [(16, 1)]}
+borders --> {'Text-8.txt': [(16, 3)]}
+pakistan --> {'Text-8.txt': [(16, 5), (26, 4)]}
+treaty --> {'Text-8.txt': [(18, 1)]}
+2 --> {'Text-8.txt': [(18, 4)]}
+500 --> {'Text-8.txt': [(18, 5)]}
+mile --> {'Text-8.txt': [(18, 6)]}
+countries --> {'Text-8.txt': [(18, 11)]}
+lesson --> {'Text-8.txt': [(20, 4)]}
+delhi --> {'Text-8.txt': [(20, 7)]}
+farewell --> {'Text-8.txt': [(20, 10)]}
+banquet --> {'Text-8.txt': [(20, 11)]}
+smoothly --> {'Text-8.txt': [(22, 6)]}
+noted --> {'Text-8.txt': [(22, 7)]}
+now --> {'Text-8.txt': [(22, 12), (28, 4)]}
+solved --> {'Text-8.txt': [(24, 1)]}
+problems --> {'Text-8.txt': [(24, 4)]}
+basis --> {'Text-8.txt': [(24, 7)]}
+peaceful --> {'Text-8.txt': [(24, 9)]}
+coexistence --> {'Text-8.txt': [(24, 10)]}
+burma --> {'Text-8.txt': [(26, 2)]}
+nepal --> {'Text-8.txt': [(26, 3)]}
+making --> {'Text-8.txt': [(26, 8)]}
+neighbors --> {'Text-8.txt': [(28, 3)]}
+remain --> {'Text-8.txt': [(28, 5)]}
+whom --> {'Text-8.txt': [(28, 7)]}
+adjustment --> {'Text-8.txt': [(30, 1)]}
+india --> {'Text-8.txt': [(30, 2)]}
